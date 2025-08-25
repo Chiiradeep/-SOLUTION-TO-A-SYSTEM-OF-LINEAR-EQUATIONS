@@ -26,6 +26,8 @@ c=np.linalg.solve(A,B)
 print(c)
 ~~~
 ## Output:
+<img width="951" height="475" alt="image" src="https://github.com/user-attachments/assets/7098d079-372c-4214-adc5-813ae0ea3cfd" />
+
 <img width="907" height="345" alt="Screenshot 2025-08-18 105704" src="https://github.com/user-attachments/assets/f0a8dcd9-d30c-4021-9be4-c35433c2bb3d" />
 
 ## Result: 
